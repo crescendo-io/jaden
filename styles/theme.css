@@ -1716,9 +1716,20 @@ svg .svg-elem-1{fill:transparent;transition:fill 0.3s ease-in-out 0s}svg.active 
 
     .strate-hero .strate-hero_inner h1{
         font-size: 50px;
-        text-transform: uppercase;
-        font-weight: 800;
         line-height: 50px;
+    }
+
+    .strate-hero .strate-hero_inner em:before{
+        display: none;
+    }
+
+    .container-image-full{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .container-image-text .image-strate{
+        width: 100%;
     }
 
     #galerie .container-intro-galerie{
@@ -1842,10 +1853,6 @@ svg .svg-elem-1{fill:transparent;transition:fill 0.3s ease-in-out 0s}svg.active 
         max-width: 100%;
     }
 
-    .button {
-        padding: 8px 30px;
-    }
-
     p {
         font-size: 18px;
     }
@@ -1856,8 +1863,8 @@ svg .svg-elem-1{fill:transparent;transition:fill 0.3s ease-in-out 0s}svg.active 
     }
 
     h2 {
-        font-size: 30px;
-        line-height: 34px;
+        font-size: 45px;
+        line-height: 44px;
 
         &.big {
             font-size: 70px;
@@ -1876,7 +1883,7 @@ svg .svg-elem-1{fill:transparent;transition:fill 0.3s ease-in-out 0s}svg.active 
     }
 
     .container-slider-cards .swiper .card-slide .text{
-        padding: 30px;
+        padding: 15px;
     }
 
     .container-slider-cards .swiper .card-slide .text img{
@@ -1884,8 +1891,51 @@ svg .svg-elem-1{fill:transparent;transition:fill 0.3s ease-in-out 0s}svg.active 
         height: 40px;
     }
 
-    .swiper .swiper-pagination{
+    .container-slider-cards .swiper .card-slide .text:after{
+        width: 15px;
+        height: 15px;
+        right: 15px;
+        bottom: 15px;
+    }
+
+    header.burger.is-scrolled .button-menu{
+        padding: 28px 30px 30px 15px;
+    }
+
+    .swiper-button-next, .swiper-button-prev{
         display: none;
+    }
+
+    .container-image-on-text{
+        width: 100%;
+    }
+
+    .container-image-on-text h2{
+        font-size: 45px;
+        line-height: 45px;
+    }
+
+    .container-image-text.fill:after{
+        width: 300px;
+        height: 150px;
+    }
+
+    .container-slider-cards .swiper-pagination-bullets{
+        display: none;
+    }
+
+    .container-slider-cards .swiper .card-slide h3,
+    .container-slider-cards .swiper .card-slide h2{
+        font-size: 25px;
+        line-height: 25px;
+        padding-right: 15px;
+    }
+
+    .accordeon .accordeon-item-title h3,
+    .accordeon .accordeon-item-title h2,
+    .accordeon .accordeon-item-title h4 {
+        font-size: 18px;
+        line-height: 20px;
     }
 
 
