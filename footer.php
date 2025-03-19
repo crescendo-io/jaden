@@ -7,8 +7,8 @@
         <div class="row">
             <div class="col-sm-8 mx-auto center">
                 <div class="containter-text">
-                    <h2>Demander l’étude de votre projet <strong>gratuitement</strong></h2>
-                    <p>Chez JADEN, nous croyons que chaque projet mérite une attention particulière dès ses premières étapes. C’est pourquoi nous vous offrons une étude gratuite de votre projet de construction. Prenez rendez-vous avec nos experts pour discuter de vos besoins, de vos envies, et de vos contraintes. Ensemble, nous analyserons vos attentes afin de vous fournir des solutions personnalisées et adaptées à votre budget.</p>
+                    <h2>Demander l'étude <strong>personnalisée</strong> de votre projet</h2>
+                    <p>Chez JADEN, nous croyons que chaque projet mérite une attention particulière dès ses premières étapes. C'est pourquoi nous vous proposons une étude personnalisée de votre projet de construction.Prenez contact avec nous pour discuter de vos besoins, de vos envies et vos contraintes. Ensemble, nous analyserons vos attentes afin de vous fournir des solutions personnalisées et adaptées à votre projet.</p>
 
 
                     <div class="container-buttons">
