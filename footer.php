@@ -12,7 +12,7 @@
 
 
                     <div class="container-buttons">
-                        <a href="https://contact.com" target="" class="button primary ">
+                        <a href="/contact/" target="" class="button primary ">
                             Contactez-nous
                         </a>
                     </div>
